@@ -1,12 +1,5 @@
 # ArduCAM_ESP32S_UNO_PSRAM
 
-## Contents
-- [Development Status](#development-status)
-- [Installation Instructions](#installation-instructions)
-- [Decoding Exceptions](#decoding-exceptions)
-- [Issue/Bug report template](#issuebug-report-template)
-- [ESP32Dev Board PINMAP](#esp32dev-board-pinmap)
-
 ## Development Status
 Most of the framework is implemented. Most noticeable is the missing analogWrite. While analogWrite is on it's way, there are a few other options that you can use:
 - 16 channels [LEDC](cores/esp32/esp32-hal-ledc.h) which is PWM
