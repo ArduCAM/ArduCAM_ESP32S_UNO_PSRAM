@@ -37,6 +37,8 @@ Starting with 1.6.4, Arduino allows installation of third-party platform package
 ![serial](docs/image_8.png)
 - Connect the arducam esp32s camera hotspot and test the demo 
 ![test](docs/image_9.png)
+##Demo Test
+ ![upload](docs/testDemo.gif)
 #### Issue/Bug report template
 Before reporting an issue, make sure you've searched for similar one that was already created. Also make sure to go through all the issues labelled as [for reference](https://github.com/espressif/arduino-esp32/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3A%22for%20reference%22%20).
 
