@@ -60,7 +60,6 @@ void setup() {
     Serial.println("' to connect");
   }
   else{
-    Serial.begin(115200);
     Serial.println();
     Serial.println("Configuring access point...");
   
